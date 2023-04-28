@@ -16,6 +16,8 @@ That doesn't mean someonw else hasn't already done it, and I also have almost no
 
 This is just a hobby project :)
 
+**I really don't have time to work on this right now; maybe I'll get back to it someday.**
+
 
 ## Model
 Models are not provided in this repository because I did not create them (obviously).
