@@ -1,6 +1,6 @@
 """Installs the helper_dude Python package"""
 
-from setuptools import setup, find_packages
+from setuptools import setup
 
 
 # Metadata:
@@ -24,7 +24,7 @@ setup(name='helper_dude',
       description=DESCRIPTION,
       author=AUTHORS,
       url=GITHUB_URL,
-      packages=find_packages(),
+      packages=["helper_dude"],
       install_requires=[
             'pygpt4all>=1.0.1',
             'pyllamacpp>=1.0.6',
